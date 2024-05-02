@@ -42,7 +42,30 @@
       "title": "Barranco, Lima",
       "description": "Casa Urbana",
       "price": 1000
+    }, 
+    {
+      "id": 6,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-6.png?raw=true",
+      "title": "Machu Picchu, Urubamba",
+      "description": "Casa Urbana",
+      "price": 1500
+    },
+    {
+      "id": 7,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-7.png?raw=true",
+      "title": "San Isidro, Lima",
+      "description": "Salon Elegante",
+      "price": 1900
+    },
+    
+    {
+      "id": 8,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-7.png?raw=true",
+      "title": "Callao, Callao",
+      "description": "Casa de campo",
+      "price": 1200
     }
+    
   ]
 }
 
