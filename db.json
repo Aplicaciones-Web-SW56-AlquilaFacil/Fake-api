@@ -1,0 +1,48 @@
+{
+  "user": [
+    {
+      "id": 1,
+      "name": "User1",
+      "email": "user1@example.com",
+      "password": "123456"
+    }
+  ],
+  "card": [
+    {
+      "id": 1,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-1.png?raw=true",
+      "title": "Miraflores, Lima",
+      "description": "Casa Urbana",
+      "price": 1800
+    },
+    {
+      "id": 2,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-2.png?raw=true",
+      "title": "Huanchaco, Trujillo",
+      "description": "Salon Elegante",
+      "price": 1000
+    },
+    {
+      "id": 3,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-3.png?raw=true",
+      "title": "Magdalena del Mar, Lima",
+      "description": "Salon Elegante",
+      "price": 1000
+    },
+    {
+      "id": 4,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-4.png?raw=true",
+      "title": "Arequipa, Arequipa",
+      "description": "Casa de campo",
+      "price": 1000
+    },
+    {
+      "id": 5,
+      "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-5.png?raw=true",
+      "title": "Barranco, Lima",
+      "description": "Casa Urbana",
+      "price": 1000
+    }
+  ]
+}
+
