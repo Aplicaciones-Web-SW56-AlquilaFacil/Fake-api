@@ -12,60 +12,57 @@
       "id": 1,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-1.png?raw=true",
       "title": "Miraflores, Lima",
-      "description": "Casa Urbana",
+      "description": "Urban House",
       "price": 1800
     },
     {
       "id": 2,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-2.png?raw=true",
       "title": "Huanchaco, Trujillo",
-      "description": "Salon Elegante",
+      "description": "Elegant Hall",
       "price": 1000
     },
     {
       "id": 3,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-3.png?raw=true",
       "title": "Magdalena del Mar, Lima",
-      "description": "Salon Elegante",
+      "description": "Elegant Hall",
       "price": 1000
     },
     {
       "id": 4,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-4.png?raw=true",
       "title": "Arequipa, Arequipa",
-      "description": "Casa de campo",
+      "description": "Country House",
       "price": 1000
     },
     {
       "id": 5,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-5.png?raw=true",
       "title": "Barranco, Lima",
-      "description": "Casa Urbana",
+      "description": "Urban House",
       "price": 1000
     }, 
     {
       "id": 6,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-6.png?raw=true",
       "title": "Machu Picchu, Urubamba",
-      "description": "Casa Urbana",
+      "description": "Urban House",
       "price": 1500
     },
     {
       "id": 7,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-7.png?raw=true",
       "title": "San Isidro, Lima",
-      "description": "Salon Elegante",
+      "description": "Elegant Hall",
       "price": 1900
     },
-    
     {
       "id": 8,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-8.png?raw=true",
       "title": "Callao, Callao",
-      "description": "Casa de campo",
+      "description": "Country House",
       "price": 1200
     }
-    
   ]
 }
-
