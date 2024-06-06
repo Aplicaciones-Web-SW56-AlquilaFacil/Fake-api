@@ -2,10 +2,38 @@
   "user": [
     {
       "id": 1,
-      "name": "User1",
-      "email": "user1@example.com",
+      "email": "italo@example.com",
       "password": "123456"
-    }
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "email": "mathi@example.com",
+      "password": "654321",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
+    },
+  ],
+  "profile":[
+    {
+      "id": 1,
+      "name": "Italo",
+      "father_name": "Luna",
+      "mother_name": "Capuñay",
+      "date_of_birth": "2004-12-29",
+      "document_number" : "72549855",
+      "phone": "123456789"
+    },
+    {
+      "id": 2,
+      "name": "Mathias",
+      "father_name": "Kunimoto",
+      "mother_name": "Watanabe",
+      "date_of_birth": "2005-01-04",
+      "document_number" : "42434334",
+      "phone": "2454543323"
+    },
   ],
   "card": [
     {
@@ -13,56 +41,142 @@
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-1.png?raw=true",
       "title": "Miraflores, Lima",
       "description": "Urban House",
-      "price": 1800
+      "price": 1800,
+      "comment": "Example comment",
+      "address": "Example Address 1",
+      "apartment": "Example Apartment 1",
+      "city": "Example City 1",
+      "district": "Example District 1",
+      "country": "Example Country 1",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 2,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-2.png?raw=true",
       "title": "Huanchaco, Trujillo",
       "description": "Elegant Hall",
-      "price": 1000
+      "price": 1000,
+      "comment": "Example comment",
+      "address": "Example Address 2",
+      "apartment": "Example Apartment 2",
+      "city": "Example City 2",
+      "district": "Example District 2",
+      "country": "Example Country 2",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 3,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-3.png?raw=true",
       "title": "Magdalena del Mar, Lima",
       "description": "Elegant Hall",
-      "price": 1000
+      "price": 1000,
+      "comment": "Example comment",
+      "address": "Example Address 3",
+      "apartment": "Example Apartment 3",
+      "city": "Example City 3",
+      "district": "Example District 3",
+      "country": "Example Country 3",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 4,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-4.png?raw=true",
       "title": "Arequipa, Arequipa",
       "description": "Country House",
-      "price": 1000
+      "price": 1000,
+      "comment": "Example comment",
+      "address": "Example Address 4",
+      "apartment": "Example Apartment 4",
+      "city": "Example City 4",
+      "district": "Example District 4",
+      "country": "Example Country 4",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 5,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-5.png?raw=true",
       "title": "Barranco, Lima",
       "description": "Urban House",
-      "price": 1000
-    }, 
+      "price": 1000,
+      "comment": "Example comment",
+      "address": "Example Address 5",
+      "apartment": "Example Apartment 5",
+      "city": "Example City 5",
+      "district": "Example District 5",
+      "country": "Example Country 5",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
+    },
     {
       "id": 6,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-6.png?raw=true",
       "title": "Machu Picchu, Urubamba",
       "description": "Urban House",
-      "price": 1500
+      "price": 1500,
+      "comment": "Example comment",
+      "address": "Example Address 6",
+      "apartment": "Example Apartment 6",
+      "city": "Example City 6",
+      "district": "Example District 6",
+      "country": "Example Country 6",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 7,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-7.png?raw=true",
       "title": "San Isidro, Lima",
       "description": "Elegant Hall",
-      "price": 1900
+      "price": 1900,
+      "comment": "Example comment",
+      "address": "Example Address 7",
+      "apartment": "Example Apartment 7",
+      "city": "Example City 7",
+      "district": "Example District 7",
+      "country": "Example Country 7",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     },
     {
       "id": 8,
       "imgUrl": "https://github.com/Aplicaciones-Web-SW56-AlquilaFacil/Frontend/blob/develop/frontend/src/assets/casa-8.png?raw=true",
       "title": "Callao, Callao",
       "description": "Country House",
-      "price": 1200
+      "price": 1200,
+      "comment": "Example comment",
+      "address": "123 Ocean Drive",
+      "apartment": "Apt 101",
+      "city": "Santa Monica",
+      "district": "California",
+      "country": "USA",
+      "created_at": "2024-01-01T12:00:00Z",
+      "updated_at": "2024-01-01T12:00:00Z"
     }
-  ]
+  ],
+  "card_photos": [
+    {
+      "id": 1,
+      "card_id": 1,
+      "photo_url": "https://example.com/photo1.jpg",
+      "created_at": "2024-01-01T12:00:00Z"
+    },
+    {
+      "id": 2,
+      "card_id": 1,
+      "photo_url": "https://example.com/photo2.jpg",
+      "created_at": "2024-01-01T12:00:00Z"
+    }
+  ],
+  "subscriptions": {
+    "id": 1,
+    "user_id": 1,
+    "card_id": 1,
+    "start_date": "2024-01-01",
+    "end_date": "2024-12-31",
+    "status": "active"
+  },
 }
