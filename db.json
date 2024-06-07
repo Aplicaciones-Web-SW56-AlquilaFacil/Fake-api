@@ -6,14 +6,7 @@
       "password": "123456"
       "created_at": "2024-01-01T12:00:00Z",
       "updated_at": "2024-01-01T12:00:00Z"
-    },
-    {
-      "id": 2,
-      "email": "mathi@example.com",
-      "password": "654321",
-      "created_at": "2024-01-01T12:00:00Z",
-      "updated_at": "2024-01-01T12:00:00Z"
-    },
+    }
   ],
   "profile":[
     {
@@ -24,16 +17,7 @@
       "date_of_birth": "2004-12-29",
       "document_number" : "72549855",
       "phone": "123456789"
-    },
-    {
-      "id": 2,
-      "name": "Mathias",
-      "father_name": "Kunimoto",
-      "mother_name": "Watanabe",
-      "date_of_birth": "2005-01-04",
-      "document_number" : "42434334",
-      "phone": "2454543323"
-    },
+    }
   ],
   "card": [
     {
@@ -162,12 +146,6 @@
       "id": 1,
       "card_id": 1,
       "photo_url": "https://example.com/photo1.jpg",
-      "created_at": "2024-01-01T12:00:00Z"
-    },
-    {
-      "id": 2,
-      "card_id": 1,
-      "photo_url": "https://example.com/photo2.jpg",
       "created_at": "2024-01-01T12:00:00Z"
     }
   ],
