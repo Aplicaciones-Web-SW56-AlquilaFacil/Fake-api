@@ -3,19 +3,19 @@
     {
       "id": 1,
       "email": "italo@example.com",
-      "password": "123456"
+      "password": "123456",
       "created_at": "2024-01-01T12:00:00Z",
       "updated_at": "2024-01-01T12:00:00Z"
     }
   ],
-  "profile":[
+  "profile": [
     {
       "id": 1,
       "name": "Italo",
       "father_name": "Luna",
       "mother_name": "Capuñay",
       "date_of_birth": "2004-12-29",
-      "document_number" : "72549855",
+      "document_number": "72549855",
       "phone": "123456789"
     }
   ],
@@ -149,12 +149,14 @@
       "created_at": "2024-01-01T12:00:00Z"
     }
   ],
-  "subscriptions": {
-    "id": 1,
-    "user_id": 1,
-    "card_id": 1,
-    "start_date": "2024-01-01",
-    "end_date": "2024-12-31",
-    "status": "active"
-  },
+  "subscriptions": [
+    {
+      "id": 1,
+      "user_id": 1,
+      "card_id": 1,
+      "start_date": "2024-01-01",
+      "end_date": "2024-12-31",
+      "status": "active"
+    }
+  ]
 }
